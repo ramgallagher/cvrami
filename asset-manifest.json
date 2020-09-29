@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cvrami/static/css/main.a0e693c7.chunk.css",
+    "main.js": "/cvrami/static/js/main.2373eb3b.chunk.js",
+    "main.js.map": "/cvrami/static/js/main.2373eb3b.chunk.js.map",
+    "runtime-main.js": "/cvrami/static/js/runtime-main.65da6fc6.js",
+    "runtime-main.js.map": "/cvrami/static/js/runtime-main.65da6fc6.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/cvrami/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.65e2eb37.chunk.js": "/cvrami/static/js/2.65e2eb37.chunk.js",
+    "static/js/2.65e2eb37.chunk.js.map": "/cvrami/static/js/2.65e2eb37.chunk.js.map",
+    "index.html": "/cvrami/index.html",
+    "precache-manifest.1ccfb47edccb5730dc3d286c8c1b563b.js": "/cvrami/precache-manifest.1ccfb47edccb5730dc3d286c8c1b563b.js",
+    "service-worker.js": "/cvrami/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/cvrami/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.a0e693c7.chunk.css.map": "/cvrami/static/css/main.a0e693c7.chunk.css.map",
+    "static/js/2.65e2eb37.chunk.js.LICENSE.txt": "/cvrami/static/js/2.65e2eb37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65da6fc6.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.65e2eb37.chunk.js",
+    "static/css/main.a0e693c7.chunk.css",
+    "static/js/main.2373eb3b.chunk.js"
+  ]
+}
